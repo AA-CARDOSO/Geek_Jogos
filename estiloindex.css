@@ -1,0 +1,56 @@
+body{
+    font: 16px Arial, helvetica, sans-serif ;
+    background: #A9A9A9;
+   }
+   #menu{
+       background: #171A21;
+       padding: 10px;
+       text-align: center;
+    
+   }
+  /* #corpo-noticia{
+       
+
+   }*/
+   a{
+       color: #B8B6B4; 
+       text-decoration: none;
+       font-weight: bold;
+       
+      
+       
+   }
+   h1 {
+       color: aqua;
+       background: url(jogofundo.jpg);
+       padding: 20px;
+       
+   }
+   li {
+    list-style-type: none;
+    padding: 30px;
+    font-size: 30px;
+    
+  }
+.veja-mais{
+    text-align: left;
+    color: black;
+    padding: 5px;
+    
+}
+.noticia {
+ background: #e5e5e5;
+ width: 380px;
+ margin: 100px;
+ float: left;
+ text-align: center;
+ padding: 20px;
+
+}
+img{
+    width: 200px;
+    border: 3px #171A21;
+}
+  
+   
+   
