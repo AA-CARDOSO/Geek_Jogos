@@ -53,29 +53,35 @@ li{
 }
 
 #cadastro {
-    width: 300px;
-    height: 400px;
+    width: 600px;
+    height: 100px;
     float: left;
-    margin-top: 80px;
-    margin-left: 40%;
+    margin-top: 200px;
+    margin-left: 30%;
     background-color: rgb(57, 86, 247);
     border-radius: 10px;
     text-align: center;
 }
 
-#formulario{
-    margin-top: 10px;
+#informacao{
+    margin-top: 50px;
     background-color: rgb(57, 86, 247);
+}
 
+#cadastrado{
+    width: 90px;
+    height: auto;
+    float: left;
+    margin-top: 5px;
+    margin-left: 40px;
 }
 
 .voltar{
-    width: 100px;
+    width: 125px;
     height:auto;
     float: left;
     margin-top: 0%;
     font-size: 15px;
-
 }
 
 #destaque:hover {
@@ -95,7 +101,7 @@ li{
     min-height: 50px;
     height:auto;
     float: left;
-    margin-top: 100px;
+    margin-top: 280px;
     background-color: #000000; 
     color: rgb(57, 86, 247);
     text-align: center;
