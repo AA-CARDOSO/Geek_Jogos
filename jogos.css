@@ -34,7 +34,6 @@ html, body {
     width: 700px;
     margin-left: 20%;
     margin-top: 15px;
-    float: left;
 }
 
 a{
@@ -50,6 +49,73 @@ a:hover {
 li{
     display: inline;
     margin: 10px;
+}
+
+img{
+    width: 200px;
+    height: 280px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.divprincipal_jogos{
+    width: 100%;
+    height: auto;
+    max-width: 1485px;
+    float: left;
+    margin-top: 25px;
+    margin-left: 1%;
+    background-color: rgb(57, 86, 247);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.div1_jogos, .div2_jogos, .venda, .img_jogo{
+    border-radius: 10px;
+    float: left;
+}
+
+.div1_jogos{
+    width: 150px;
+    height: 300px;
+    margin-left: 5%;
+}
+
+.div2_jogos{
+    width: 100%;
+    height: auto;
+    max-width: 1000px;
+    margin-left: 10%;    
+}
+
+.venda, .img_jogo{
+    width: 200px;
+}
+
+.venda{
+    height: 110px;
+    margin-left: 20%;
+    margin-top: 30px;
+}
+
+.img_jogo{
+    height: 50px;
+    margin-top: 0px;
+}
+
+.img_jogo:hover{
+    width: 205px;
+    height: 55px;
+}
+
+.veja-mais{
+    text-align: left;
+    color: black;
+    font-size: 16px;   
+}
+
+.veja-mais:hover {
+    font-size: 18px;
 }
 
 .voltar{
@@ -78,7 +144,7 @@ li{
     min-height: 50px;
     height:auto;
     float: left;
-    margin-top: 580px;
+    margin-top: 25px;
     background-color: #000000; 
     color: rgb(57, 86, 247);
     text-align: center;
