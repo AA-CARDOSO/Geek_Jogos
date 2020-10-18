@@ -16,7 +16,6 @@ html, body {
     background-color: #000000; 
 }
 
-
 #titulo, #menu{
     height: 50px;
     float: left;
@@ -52,13 +51,31 @@ li{
     margin: 10px;
 }
 
+img{
+    width: 200px;
+    height: 280px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.perguntas{
+    width: 100%;
+    height: auto;
+    max-width: 1485px;
+    margin-top: 25px;
+    margin-left: 1%;
+    float: left;
+    border-radius: 10px;
+    background-color: rgb(57, 86, 247);
+    text-align: center;
+}
+
 .voltar{
     width: 100px;
     height:auto;
     float: left;
     margin-top: 0%;
     font-size: 15px;
-
 }
 
 #destaque:hover {
@@ -78,7 +95,7 @@ li{
     min-height: 50px;
     height:auto;
     float: left;
-    margin-top: 580px;
+    margin-top: 25px;
     background-color: #000000; 
     color: rgb(57, 86, 247);
     text-align: center;

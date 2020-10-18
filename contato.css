@@ -52,13 +52,23 @@ li{
     margin: 10px;
 }
 
+#contato{
+    width: 600px;
+    height: auto;
+    float: left;
+    margin-top: 40px;
+    margin-left: 30%;
+    background-color: rgb(57, 86, 247);
+    border-radius: 10px;
+    text-align: center;
+}
+
 .voltar{
     width: 100px;
     height:auto;
     float: left;
     margin-top: 0%;
     font-size: 15px;
-
 }
 
 #destaque:hover {
@@ -78,7 +88,7 @@ li{
     min-height: 50px;
     height:auto;
     float: left;
-    margin-top: 580px;
+    margin-top: 30px;
     background-color: #000000; 
     color: rgb(57, 86, 247);
     text-align: center;
