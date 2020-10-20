@@ -13,14 +13,14 @@ html, body {
     height:auto;
     float: left;
     margin-top: 0px;
-    background-color: #000000; 
+    background-color: #221c1c; 
 }
 
 
 #titulo, #menu{
     height: 50px;
     float: left;
-    color: rgb(57, 86, 247);
+    color: rgb(88, 113, 255);
 }
 
 #titulo{
@@ -37,7 +37,7 @@ html, body {
 }
 
 a{
-    color: rgb(57, 86, 247);
+    color: rgb(88, 113, 255);
     text-decoration: none; 
     font-size: 20px;   
 }
@@ -65,7 +65,7 @@ img{
     float: left;
     margin-top: 25px;
     margin-left: 1%;
-    background-color: rgb(57, 86, 247);
+    background-color: rgb(88, 113, 255);
     border-radius: 10px;
     text-align: center;
 }
@@ -145,7 +145,7 @@ img{
     height:auto;
     float: left;
     margin-top: 25px;
-    background-color: #000000; 
-    color: rgb(57, 86, 247);
+    background-color: #221c1c; 
+    color: rgb(88, 113, 255);
     text-align: center;
 }
